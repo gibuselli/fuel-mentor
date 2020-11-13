@@ -15,10 +15,10 @@ Dado o preço da gasolina e álcool em sua região, o Fuel Mentor recomendará q
 
 Há 4 opções de retorno ao inserir dados:
 
-* Gasolina! - Retornado se a divisão resultar em relação acima de 0,7.
-* Álcool! - Retornado se a divisão resultar em relação abaixo de 0,7.
-* Use qualquer um! - Retornado se a divisão resultar em relação igual a 0,7.
-* Use valores acima de zero!! - Retornado se o usuário(a) inserir caracteres, números negativos, zero ou valores vazios.
+* _Gasolina!_ - Retornado se a divisão resultar em relação acima de 0,7.
+* _Álcool!_ - Retornado se a divisão resultar em relação abaixo de 0,7.
+* _Use qualquer um!_ - Retornado se a divisão resultar em relação igual a 0,7.
+* _Use valores acima de zero!!_ - Retornado se o usuário(a) inserir caracteres, números negativos, zero ou valores vazios.
 
 ## Tecnologias
 
