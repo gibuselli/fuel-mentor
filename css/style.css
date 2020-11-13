@@ -1,0 +1,59 @@
+body {
+  margin: 20px;
+  background-image: linear-gradient(to bottom right, lightgrey, white);
+}
+
+#titulo {
+  font-size: 32px;
+}
+
+#main-img {
+  max-width: 70%;
+  max-height: 70%;
+  margin-top: 60px;
+}
+
+#buttonLimpar {
+  margin-left: 30px;
+}
+
+#resultado {
+  color: #044d72;
+  font-weight: bold;
+}
+
+/* .page {
+  display: flex;
+  flex-direction: row;
+  align-items: ;
+} */
+
+#custoDeAlcool::-webkit-input-placeholder {
+    color: #044d72;
+    font-weight: bold;
+}
+
+#custoDeAlcool::-moz-placeholder {
+    color: #044d72;
+    font-weight: bold;
+}
+
+#custoDeGasolina::-webkit-input-placeholder {
+    color: #044d72;
+    font-weight: bold;
+}
+
+#custoDeGasolina::-moz-placeholder {
+    color: #044d72;
+    font-weight: bold;
+}
+
+#resultado::-webkit-input-placeholder {
+    color: #044d72;
+    font-weight: bold;
+}
+
+#resultado::-moz-placeholder {
+    color: #044d72;
+    font-weight: bold;
+}
