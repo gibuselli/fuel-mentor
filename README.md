@@ -1,6 +1,6 @@
 # Fuel Mentor
 
-A relação de consumo entre álcool e gasolina é de 70%, ou seja, se temos o mesmo volume de combustível, a energia gerada por 70% do consumo de gasolina é o mesmo de 100% do consumo de álcool. <br><br>
+A relação de consumo entre álcool e gasolina é de 70%, ou seja, se temos o mesmo volume de combustível, a energia gerada por 70% do consumo de gasolina é a mesma de 100% do consumo de álcool. <br><br>
 Dado o preço da gasolina e álcool em sua região, o Fuel Mentor recomendará qual combustível é mais vantajoso, com base no cálculo da relação de consumo.
 
 ## Como usar
