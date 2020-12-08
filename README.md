@@ -5,7 +5,7 @@ Dado o preço da gasolina e álcool em sua região, o Fuel Mentor recomendará q
 
 ## Como usar
 
-1. Faça o download dos arquivos e abra o index.html.
+1. Faça o download dos arquivos e abra o index.html ou acesse o link: https://gibuselli.github.io/fuel-mentor/
 1. Insira os valores (por litro) de álcool e gasolina que deseja comparar.
 1. Clique no botão de "Calcular" para obter o resultado.
 1. A aplicação retornará a opção mais vantajosa baseada no cálculo de álcool / gasolina ou uma mensagem de erro.
